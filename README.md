@@ -5,7 +5,7 @@
 ---
 
 - 🔭 I'm currently majoring in Information Assurance 🔭
-- 🌱 I'm interested in Web Exploitation and Linux customization 🌱
+- 🌱 I'm interested in Web Exploitation, Pwnable and Linux customization 🌱
 - 📫 How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://tinyurl.com/mirai-info-hint)
 - ⚡ Fact: Skills speak louder than words ⚡
 

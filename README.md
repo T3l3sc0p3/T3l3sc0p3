@@ -9,6 +9,7 @@
 - 📫 How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://tinyurl.com/mirai-info-hint)
 - ⚡ Fact: Skills speak louder than words ⚡
 
+## 📊 GitHub Stats
 [![Mirai's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3l3sc0p3&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/T3l3sc0p3?tab=repositories)
+[![Mirai's GitHub Streak](https://streak-stats.demolab.com/?user=T3l3sc0p3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3l3sc0p3&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/T3l3sc0p3)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=T3l3sc0p3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)

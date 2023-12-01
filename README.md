@@ -1,8 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=T3l3sc0p3&color=628FDA&style=flat&label=Profile+Views" align="right" alt="T3l3sc0p3">
 
-### Hi there, I'm Mirai 👋
-
----
+## Hi there, I'm Mirai 👋
 
 - 🔭 I'm currently majoring in Information Assurance 🔭
 - 🌱 I'm interested in Web Exploitation, Pwnable and Linux customization 🌱

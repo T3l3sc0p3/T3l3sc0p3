@@ -2,6 +2,8 @@
 
 ## Hi there, I'm Mirai 👋
 
+<img align="right" alt="Fuyukai Desu~" width="150" src="https://raw.githubusercontent.com/T3l3sc0p3/CDN-for-personal-use/Kuriyama-Mirai/gifs/fuyukai-desu.gif">
+
 - 🔭 I'm currently majoring in Information Assurance 🔭
 - 🌱 I'm interested in Web Exploitation, Pwnable and Linux Customization 🌱
 - 📫 How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://tinyurl.com/mirai-info-hint)

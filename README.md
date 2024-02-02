@@ -1,20 +1,55 @@
-<img src="https://komarev.com/ghpvc/?username=T3l3sc0p3&color=8590c5&style=flat&label=Profile+Views" align="right" alt="T3l3sc0p3">
-
-## Hi there, I'm Mirai 👋
+## Hi there, I'm Mirai :wave:
 
 <img align="right" alt="Fuyukai Desu~" width="150" src="https://raw.githubusercontent.com/T3l3sc0p3/CDN-for-personal-use/Kuriyama-Mirai/gifs/fuyukai-desu.gif">
 
-- 🔭 I'm currently majoring in Information Assurance 🔭
-- 🌱 I'm interested in Web Exploitation, Pwnable and Linux Customization 🌱
-- 📫 How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://tinyurl.com/mirai-info-hint)
-- ⚡ Fact: Skills speak louder than words ⚡
+- :telescope: I'm currently majoring in Information Assurance :telescope:
+- :four_leaf_clover: I'm interested in Web Exploitation, Pwnable and Linux Customization :four_leaf_clover:
+- :mailbox: How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://tinyurl.com/mirai-info-hint)
+- :zap: Fact: Skills speak louder than words :zap:
 
-## 💻 Languages and Tools
+## :computer: Languages and Tools
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a> </p>
+<p>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white" alt="assembly">
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="bash">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="c">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="c++">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="javascript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="python">
 
-## 📊 GitHub Stats
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="docker">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" alt="git">
+  <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="github actions">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" alt="nvim">
+  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" alt="prettier">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="vscode">
 
-[![Mirai's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3l3sc0p3&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/T3l3sc0p3?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3l3sc0p3&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/T3l3sc0p3)
-[![Mirai's GitHub Streak](https://streak-stats.demolab.com/?user=T3l3sc0p3&hide_border=true&theme=tokyonight)](https://github.com/T3l3sc0p3)
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="windows">
+</p>
+
+## :closed_book: Latest Blog Posts
+
+<!-- Fetch-Blog-Post:Start -->
+- [KnightCTF 2024 Writeup](https://t3l3sc0p3.github.io/posts/knightctf-2024-writeup/)
+- [UofTCTF 2024 Writeup](https://t3l3sc0p3.github.io/posts/uoftctf-2024-writeup/)
+- [Hutech CTF Newbie 2023 Writeup](https://t3l3sc0p3.github.io/posts/hutech-ctf-newbie-2023-writeup/)
+<!-- Fetch-Blog-Post:End -->
+
+## :bar_chart: GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T3l3sc0p3&show_icons=true&hide_border=true&theme=tokyonight" alt="Mirai's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3l3sc0p3&layout=compact&hide_border=true&theme=tokyonight" alt="Top Langs">
+</p>
+
+## :fire: GitHub Streak
+
+<p align="center">
+  <a href="https://github.com/T3l3sc0p3">
+    <img src="https://streak-stats.demolab.com/?user=T3l3sc0p3&hide_border=true&theme=tokyonight" alt="Mirai's GitHub Streak">
+  </a>
+</p>

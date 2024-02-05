@@ -11,7 +11,7 @@ def fetch(url):
 
 def parse(feed_xml):
     entries = []
-    for entry in BeautifulSoup(feed_xml, 'html.parser').find_all('entry'):
+    for entry in BeautifulSoup(feed_xml, 'lxml').find_all('entry'):
         entries.append({'title': entry.find('title').text, 'url': entry.find('id').text, 'published': entry.find('published').text})
     return entries
 

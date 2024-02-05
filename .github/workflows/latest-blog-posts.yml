@@ -3,7 +3,10 @@ name: Fetch latest blog posts
 on:
   schedule:
     - cron: "0 6 * * MON"
-
+  push:
+    branches:
+      - master
+      - main
 permissions:
     contents: write
 

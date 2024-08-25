@@ -3,6 +3,7 @@ name: Fetch latest blog posts
 on:
   schedule:
     - cron: "0 6 * * MON"
+  workflow_dispatch:
 permissions:
     contents: write
 

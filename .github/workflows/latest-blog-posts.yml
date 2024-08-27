@@ -24,7 +24,7 @@ jobs:
 
       - name: Fetch Latest Blog Posts
         run: |
-            python ".github/script/fetch-blog-post.py" "https://t3l3sc0p3.github.io/feed.xml"
+            python ".github/script/fetch-blog-post.py" "https://t3l3sc0p3.github.io/feed.xml" "https://3r0th3r-cc.github.io/atom.xml"
             if [[ $(git status --porcelain) ]]; then
                 git config --local user.name "github-actions[bot]"
                 git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

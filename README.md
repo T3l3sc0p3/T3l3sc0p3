@@ -1,11 +1,11 @@
-## Hi there, I'm Mirai :wave:
+## Hi there, I'm Scott :wave:
 
 <img align="right" alt="Fuyukai Desu~" width="150" src="https://raw.githubusercontent.com/T3l3sc0p3/CDN-for-personal-use/Kuriyama-Mirai/gifs/fuyukai-desu.gif">
 
 - :telescope: I'm currently majoring in Information Assurance :telescope:
 - :four_leaf_clover: I'm interested in Web Exploitation, Pwnable and Linux Customization :four_leaf_clover:
 - :mailbox: How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://tinyurl.com/mirai-info-hint)
-- :zap: Fact: Skills speak louder than words :zap:
+- :zap: 人生の意味とは何か？ :zap:
 
 ## :computer: Languages and Tools
 

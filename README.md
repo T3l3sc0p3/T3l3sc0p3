@@ -5,7 +5,7 @@
 - :telescope: I'm currently majoring in Information Assurance :telescope:
 - :four_leaf_clover: I'm interested in Web Exploitation, Pwnable and Linux Customization :four_leaf_clover:
 - :mailbox: How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://tinyurl.com/mirai-info-hint)
-- :zap: 人生の意味とは何か？ :zap:
+- :zap: Quote: Hard work always pays off, whatever you do :zap:
 
 ## :computer: Languages and Tools
 

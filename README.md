@@ -35,6 +35,7 @@
 ## :closed_book: Latest Blog Posts
 
 <!-- Fetch-Blog-Post:Start -->
+- [Writeup Challenge Rắn Thần Tài CyberJutsu](https://t3l3sc0p3.github.io/posts/writeup-ran-than-tai-cyberjutsu/)
 - [Digital Dragons CTF 2024 Writeup](https://3r0th3r-cc.github.io/2024/08/25/Digital-Dragons-CTF-2024-Writeup/)
 - [KnightCTF 2024 Writeup](https://t3l3sc0p3.github.io/posts/knightctf-2024-writeup/)
 - [UofTCTF 2024 Writeup](https://t3l3sc0p3.github.io/posts/uoftctf-2024-writeup/)

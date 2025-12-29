@@ -46,5 +46,5 @@
 
 <p align="center">
   <img src="https://t3l3sc0p3-github-readme-stats.vercel.app/api?username=T3l3sc0p3&show_icons=true&hide_border=true&theme=tokyonight" alt="Mirai's GitHub Stats">
-  <img src="https://t3l3sc0p3-github-readme-stats.vercel.app/api/top-langs/?username=T3l3sc0p3&layout=compact&hide_border=true&theme=tokyonight" alt="Top Langs">
+  <img src="https://t3l3sc0p3-github-readme-stats.vercel.app/api/top-langs/?username=T3l3sc0p3&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&exclude_repo=t3l3sc0p3-github-readme-stats" alt="Top Langs">
 </p>

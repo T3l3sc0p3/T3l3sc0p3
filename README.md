@@ -4,7 +4,7 @@
 
 - :telescope: I'm currently majoring in Information Assurance :telescope:
 - :four_leaf_clover: I'm interested in Web Exploitation, Pwnable and Linux Customization :four_leaf_clover:
-- :mailbox: How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://tinyurl.com/mirai-info-hint)
+- :mailbox: How to reach me: The adventure begins with a search for clues [:triangular_flag_on_post:](https://t3l3sc0p3.github.io)
 - :zap: Quote: Hard work always pays off, whatever you do :zap:
 
 ## :computer: Languages and Tools
@@ -45,6 +45,6 @@
 ## :bar_chart: GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T3l3sc0p3&show_icons=true&hide_border=true&theme=tokyonight" alt="Mirai's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3l3sc0p3&layout=compact&hide_border=true&theme=tokyonight" alt="Top Langs">
+  <img src="https://t3l3sc0p3-github-readme-stats.vercel.app/api?username=T3l3sc0p3&show_icons=true&hide_border=true&theme=tokyonight" alt="Mirai's GitHub Stats">
+  <img src="https://t3l3sc0p3-github-readme-stats.vercel.app/api/top-langs/?username=T3l3sc0p3&layout=compact&hide_border=true&theme=tokyonight" alt="Top Langs">
 </p>
